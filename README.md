@@ -4,7 +4,7 @@
 This project explores the current landscape of the Electric Vehicle (EV) market, analyzing trends, adoption patterns, and market leaders. Using Tableau, we present key insights into the adoption of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) across different states, counties, and manufacturers.
 
 📊 **Dataset**<br>
-Source: Kaggle - Electric Vehicle Population Data
+Source: [Kaggle - Electric Vehicle Population Data](https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data)
 Key Attributes: State, County, Model, Make, CAFV Eligibility, and more.
 
 
